@@ -1,10 +1,10 @@
 {
-  "name": "@prb/foundry-template",
-  "description": "Foundry-based template for developing Solidity smart contracts",
+  "name": "@clearlyMine/advent_of_code_solidity",
+  "description": "Advent of Code solutions written in solidity",
   "version": "1.0.0",
   "author": {
-    "name": "Paul Razvan Berg",
-    "url": "https://github.com/PaulRBerg"
+    "name": "afas",
+    "url": "https://github.com/clearlyMine"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.1"
@@ -22,7 +22,7 @@
     "foundry",
     "smart-contracts",
     "solidity",
-    "template"
+    "advent-of-code"
   ],
   "private": true,
   "scripts": {
