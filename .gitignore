@@ -2,7 +2,7 @@
 cache
 coverage
 node_modules
-inputs
+# inputs
 out
 
 # files
