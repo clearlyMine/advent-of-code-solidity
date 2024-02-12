@@ -3,3 +3,4 @@
 forge-std/=node_modules/forge-std/
 ds-test/=node_modules/ds-test/src/
 ds-test/src/=node_modules/ds-test/src/
+stringutils/=node_modules/string-utils/src/
