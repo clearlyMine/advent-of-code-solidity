@@ -14,8 +14,7 @@
     "ds-test": "github:dapphub/ds-test",
     "forge-std": "github:foundry-rs/forge-std#v1.7.5",
     "prettier": "^3.0.0",
-    "solhint": "^3.6.2",
-    "stringutils": "link:github.com/Arachnid/solidity-stringutils"
+    "solhint": "^3.6.2"
   },
   "keywords": [
     "blockchain",
