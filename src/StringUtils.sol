@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-import "string-utils/src/strings.sol";
+import "solidity-stringutils/src/strings.sol";
 
 library StringUtils {
   using strings for *;
