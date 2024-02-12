@@ -10,7 +10,7 @@ contract Day02 is Parser {
     string[] memory tokens = parseTokens(input);
     int256[2][] memory out = new int256[2][](tokens.length / 2);
 
-    for (uint i = 0; i < tokens.length; i += 2) {
+    for (uint256 i = 0; i < tokens.length; i += 2) {
       int256 distance = int256(parseUint(tokens[i + 1]));
       string memory direction = tokens[i];
       if (StringUtils.compareStrings(direction, "forward")) {

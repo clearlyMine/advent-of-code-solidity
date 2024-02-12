@@ -38,7 +38,7 @@ contract Day02Test is StdCheats, Test {
     uint256 _part1 = day02.solvePart1(_i);
 
     console2.log("Part 1: %d", _part1);
-    assertEq(_part1, 1840243);
+    assertEq(_part1, 1_840_243);
   }
 
   function test_day02_part_2_sample() public {
@@ -54,6 +54,6 @@ contract Day02Test is StdCheats, Test {
     uint256 _part2 = day02.solvePart2(_i);
 
     console2.log("Part 2: %d", _part2);
-    assertEq(_part2, 1727785422);
+    assertEq(_part2, 1_727_785_422);
   }
 }
