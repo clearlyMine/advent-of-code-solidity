@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Paul Razvan Berg
+Copyright (c) 2024 Afas Arsh Ayan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
@@ -9,6 +9,9 @@ persons to whom the Software is furnished to do so, subject to the following con
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
 Software.
+
+Acknowledgements: This project was built using a template provided by [Paul Razvan Berg](https://github.com/PaulRBerg/foundry-template).
+We would like to thank them for their contribution.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
